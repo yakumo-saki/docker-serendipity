@@ -5,7 +5,13 @@ https://github.com/s9y/Serendipity/tree/2.3
 
 ## how to start
 
-* `docker-compose up`
+* clone and run
+
+```
+$ git clone https://github.com/yakumo-saki/docker-serendipity.git
+$ cd docker-serendipity
+$ docker-compose up -d
+```
 
 * create DB and user
 
